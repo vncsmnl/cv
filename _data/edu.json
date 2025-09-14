@@ -1,0 +1,26 @@
+[
+    {
+        "school": "Universidade de Brasília (UnB)",
+        "school_location": "Brasília, DF, Brasil",
+        "degree": "Mestrado em Ciências da Computação (Computing Systems)",
+        "time_period": "Mar 2024 - Dez 2025"
+    },
+    {
+        "school": "Universidade Católica de Brasília",
+        "school_location": "Brasília, DF, Brasil",
+        "degree": "Bacharelado em Ciência da Computação",
+        "time_period": "Fev 2020 - Dez 2023"
+    },
+    {
+        "school": "Universidade Católica de Brasília",
+        "school_location": "Brasília, DF, Brasil",
+        "degree": "Bacharelado em Biomedicina",
+        "time_period": "Fev 2017 - Dez 2020"
+    },
+    {
+        "school": "Centro Interescolar de Línguas (CIL)",
+        "school_location": "Brasília, DF, Brasil",
+        "degree": "Curso Técnico Integrado – Inglês como Segunda Língua (ESL)",
+        "time_period": "2009 - 2013"
+    }
+]

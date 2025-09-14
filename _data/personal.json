@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Vinícius Manoel Ribeiro",
+        "website": "https://vinicius.is-a.dev/cv",
+        "email": "viniciusmanoel07@hotmail.com",
+        "phone": "+55 (61) 9 9921-7424",
+        "linkedin": "linkedin.com/in/vncsmnl",
+        "languages": [
+            {
+                "language": "Python"
+            },
+            {
+                "language": "C"
+            },
+            {
+                "language": "Ruby"
+            },
+            {
+                "language": "JavaScript"
+            },
+            {
+                "language": "SQL"
+            }
+        ],
+        "technologies": [
+            {
+                "technology": "Linux"
+            },
+            {
+                "technology": "Windows"
+            },
+            {
+                "technology": "macOS"
+            },
+            {
+                "technology": "Git"
+            },
+            {
+                "technology": "Node.js"
+            },
+            {
+                "technology": "Docker"
+            }
+        ]
+    }
+]

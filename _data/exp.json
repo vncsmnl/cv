@@ -1,0 +1,28 @@
+[
+    {
+        "company": "Universidade de Brasília",
+        "company_location": "Brasília, DF",
+        "role": "Pesquisador de Mestrado",
+        "team": "Computing Systems",
+        "time_duration": "2024 - 2025",
+        "details": [
+            {
+                "title": "Multiple Sequence Alignment",
+                "description": "Pesquisa em bioinformática, redes de computadores e computação em nuvem, com foco em alto desempenho e visão computacional."
+            }
+        ]
+    },
+    {
+        "company": "Universidade Católica de Brasília",
+        "company_location": "Brasília, DF",
+        "role": "Estudante de Ciência da Computação",
+        "team": "Projetos Acadêmicos",
+        "time_duration": "2020 - 2023",
+        "details": [
+            {
+                "title": "Desenvolvimento de Sistemas",
+                "description": "Criação de aplicações web e mobile, modelagem de banco de dados e soluções de problemas"
+            }
+        ]
+    }
+]

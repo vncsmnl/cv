@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Sistemas de Redes e Segurança",
+        "description": "Configuração de redes locais, aplicação de protocolos de segurança, backup de dados e administração de sistemas operacionais (Linux e Windows)."
+    },
+    {
+        "title": "Desenvolvimento de Aplicações Web e Mobile",
+        "description": "Projetos utilizando Python, JavaScript, Ruby on Rails e Swift, com foco em usabilidade e experiência do usuário."
+    },
+    {
+        "title": "Inteligência Artificial e Machine Learning",
+        "description": "Implementação de modelos de aprendizado de máquina, redes neurais artificiais e processamento de linguagem natural."
+    },
+    {
+        "title": "Banco de Dados Relacionais",
+        "description": "Trabalho com MySQL e SQLite, incluindo modelagem de dados, consultas complexas e integração com aplicações."
+    }
+]
