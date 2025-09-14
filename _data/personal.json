@@ -1,10 +1,11 @@
 [
     {
         "name": "Vinícius Manoel Ribeiro",
-        "website": "https://vinicius.is-a.dev/cv",
+        "website": "https://vinicius.is-a.dev/",
         "email": "viniciusmanoel07@hotmail.com",
         "phone": "+55 (61) 9 9921-7424",
-        "linkedin": "linkedin.com/in/vncsmnl",
+        "linkedin": "https://linkedin.com/in/vncsmnl",
+        "github": "https://github.com/vncsmnl",
         "languages": [
             {
                 "language": "Python"
