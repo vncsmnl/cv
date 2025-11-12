@@ -1,0 +1,284 @@
+/* ============================================ */
+/* FONTES CUSTOMIZADAS */
+/* ============================================ */
+
+@font-face {
+    font-family: 'MonoLisa';
+    src: url('fonts/web/MonoLisa-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonoLisa';
+    src: url('fonts/web/MonoLisa-italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ============================================ */
+/* ESTILOS GLOBAIS */
+/* ============================================ */
+
+code,
+pre,
+.language-tag {
+    font-family: 'MonoLisa', 'Courier New', Courier, monospace;
+}
+
+/* Layout principal */
+.main-container {
+    padding-top: 20px;
+}
+
+/* Cabeçalho */
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.subtitle-links {
+    display: flex;
+    gap: 10px;
+}
+
+/* Seções */
+.section-heading {
+    margin-bottom: 1rem;
+}
+
+/* Education e Experience */
+.info-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0;
+}
+
+.info-row p {
+    margin-bottom: 0;
+}
+
+.info-row .right-aligned {
+    text-align: right;
+    font-size: 0.8rem;
+}
+
+.secondary-text {
+    font-size: 0.8rem;
+}
+
+.secondary-text-content {
+    margin-bottom: 0;
+}
+
+/* Listas de detalhes */
+.details-list {
+    margin-top: 0.2em;
+    list-style-type: circle;
+}
+
+.details-list li {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+}
+
+.detail-heading {
+    margin-bottom: 0;
+}
+
+.language-tag {
+    margin-left: 5px;
+    font-size: 10px;
+    color: #00d1b2;
+}
+
+/* Projetos */
+.project-title {
+    margin-bottom: 0;
+}
+
+.project-description {
+    font-size: 0.8rem;
+}
+
+/* Skills */
+.skills-heading {
+    margin-bottom: 0;
+}
+
+.skills-content {
+    font-size: 0.8rem;
+}
+
+/* Footer */
+.custom-footer {
+    background: inherit;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+/* ============================================ */
+/* RESPONSIVIDADE - Media Queries */
+/* ============================================ */
+
+/* Tablets e dispositivos menores (até 768px) */
+@media screen and (max-width: 768px) {
+
+    /* Ajustar padding do container principal */
+    .main-container {
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /* Ajustar títulos para telas menores */
+    .title.is-2 {
+        font-size: 1.75rem !important;
+    }
+
+    /* Tornar info-row vertical em telas pequenas */
+    .info-row {
+        flex-direction: column;
+        gap: 0.3rem;
+    }
+
+    .info-row .right-aligned {
+        text-align: left;
+        margin-top: 0.2rem;
+    }
+
+    /* Ajustar tamanho das tags de linguagem */
+    .language-tag {
+        display: block;
+        margin-left: 0;
+        margin-top: 0.3rem;
+    }
+
+    /* Ajustar listas */
+    .details-list {
+        padding-left: 1.2rem;
+    }
+
+    /* Reduzir gap dos ícones */
+    .subtitle-links {
+        gap: 8px;
+    }
+}
+
+/* Smartphones (até 480px) */
+@media screen and (max-width: 480px) {
+
+    /* Reduzir padding ainda mais */
+    .main-container {
+        padding-top: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* Ajustar títulos principais */
+    .title.is-2 {
+        font-size: 1.5rem !important;
+    }
+
+    /* Ajustar subtítulos */
+    .subtitle.is-5 {
+        font-size: 1rem !important;
+    }
+
+    /* Ajustar headings de seção */
+    .section-heading h3 {
+        font-size: 1.1rem;
+    }
+
+    /* Ajustar texto secundário */
+    .secondary-text,
+    .details-list li,
+    .project-description,
+    .skills-content {
+        font-size: 0.75rem;
+    }
+
+    /* Ajustar tags de linguagem */
+    .language-tag {
+        font-size: 9px;
+    }
+
+    /* Reduzir espaçamento das listas */
+    .details-list {
+        padding-left: 1rem;
+        margin-top: 0.3em;
+    }
+
+    /* Ícones menores */
+    .icon {
+        font-size: 1.2rem;
+    }
+
+    /* Footer mais compacto */
+    .custom-footer {
+        padding: 1rem 0.5rem;
+    }
+}
+
+/* Telas muito pequenas (até 360px) */
+@media screen and (max-width: 360px) {
+    .title.is-2 {
+        font-size: 1.3rem !important;
+    }
+
+    .section-heading h3 {
+        font-size: 1rem;
+    }
+
+    .secondary-text,
+    .details-list li,
+    .project-description,
+    .skills-content {
+        font-size: 0.7rem;
+    }
+}
+
+/* Landscape em dispositivos móveis */
+@media screen and (max-height: 600px) and (orientation: landscape) {
+    .main-container {
+        padding-top: 5px;
+    }
+
+    .section-heading {
+        margin-bottom: 0.5rem;
+    }
+
+    .details-list {
+        margin-top: 0.1em;
+    }
+}
+
+/* Print styles - para garantir boa impressão */
+@media print {
+    .main-container {
+        padding-top: 0;
+    }
+
+    .custom-footer {
+        page-break-inside: avoid;
+    }
+
+    .info-row {
+        page-break-inside: avoid;
+    }
+
+    /* Esconder ícones de download na impressão */
+    a[download] {
+        display: none;
+    }
+}
