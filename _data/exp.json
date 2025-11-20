@@ -4,7 +4,7 @@
         "company_location": "Brasília, DF",
         "role": "Pesquisador de Mestrado",
         "team": "Computing Systems",
-        "time_duration": "2024 - 2025",
+        "time_duration": "2024 - 2026",
         "details": [
             {
                 "title": "Multiple Sequence Alignment",
@@ -13,15 +13,15 @@
         ]
     },
     {
-        "company": "Universidade Católica de Brasília",
+        "company": "Anhanguera Educacional",
         "company_location": "Brasília, DF",
-        "role": "Estudante de Ciência da Computação",
-        "team": "Projetos Acadêmicos",
-        "time_duration": "2020 - 2023",
+        "role": "Desenvolvedor de Software",
+        "team": "Desenvolvimento de Sistemas",
+        "time_duration": "2022 - 2023",
         "details": [
             {
-                "title": "Desenvolvimento de Sistemas",
-                "description": "Criação de aplicações web e mobile, modelagem de banco de dados e soluções de problemas"
+                "title": "Desenvolvimento Full Stack",
+                "description": "Participação no desenvolvimento de aplicações web utilizando tecnologias front-end e back-end, além de colaborar na modelagem de banco de dados."
             }
         ]
     }
