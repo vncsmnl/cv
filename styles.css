@@ -23,7 +23,19 @@
 /* ============================================ */
 
 body {
-    font-family: 'MonoLisa', 'Courier New', Courier, monospace;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title,
+.subtitle,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.section-heading h3 {
+    font-family: 'BioRhyme', serif;
 }
 
 code,
@@ -45,6 +57,11 @@ pre,
     margin-bottom: 0;
 }
 
+.title.is-2 {
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
 .subtitle-links {
     display: flex;
     gap: 10px;
@@ -53,6 +70,11 @@ pre,
 /* Seções */
 .section-heading {
     margin-bottom: 1rem;
+}
+
+.section-heading h3 {
+    font-weight: 700;
+    letter-spacing: -0.3px;
 }
 
 /* Education e Experience */
