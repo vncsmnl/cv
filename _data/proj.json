@@ -1,18 +1,38 @@
 [
     {
-        "title": "Sistemas de Redes e Segurança",
-        "description": "Configuração de redes locais, aplicação de protocolos de segurança, backup de dados e administração de sistemas operacionais (Linux e Windows)."
+        "title": "astar_msa",
+        "description": "Parallel A-Star search for Multiple Sequence Alignment with pa-star-rv visualization tool. Features TrioAlign 3D dynamic programming, HeuristicHPair with h3all computation, multi-threaded initialization and heuristic calculation, and memory-optimized linearized 3D matrices.",
+        "language": "C++",
+        "link": "https://github.com/vncsmnl/astar_msa"
     },
     {
-        "title": "Desenvolvimento de Aplicações Web e Mobile",
-        "description": "Projetos utilizando Python, JavaScript, Ruby on Rails e Swift, com foco em usabilidade e experiência do usuário."
+        "title": "cli_ai",
+        "description": "Interactive CLI for interacting with multiple LLMs (ChatGPT, etc.). Features: multiple observers (Console, File, Log), evaluation strategies (WordCount, SemanticSimilarity, TextSimilarity), and command-based architecture for asking questions and comparing responses.",
+        "language": "Python",
+        "link": "https://github.com/vncsmnl/cli_ai"
     },
     {
-        "title": "Inteligência Artificial e Machine Learning",
-        "description": "Implementação de modelos de aprendizado de máquina, redes neurais artificiais e processamento de linguagem natural."
+        "title": "AI_RAG",
+        "description": "Intelligent chatbot using RAG (Retrieval-Augmented Generation) with CSV knowledge base. Supports multiple LLM providers (Groq, OpenRouter, Ollama), HuggingFace embeddings, and Streamlit web interface for automated customer support.",
+        "language": "Python",
+        "link": "https://github.com/vncsmnl/AI_RAG"
     },
     {
-        "title": "Banco de Dados Relacionais",
-        "description": "Trabalho com MySQL e SQLite, incluindo modelagem de dados, consultas complexas e integração com aplicações."
+        "title": "needleman-wunsch",
+        "description": "Implementation of the Needleman-Wunsch algorithm for global sequence alignment. Features matrix initialization, score calculation with match/mismatch/gap penalties, traceback for alignment retrieval, and matrix visualization.",
+        "language": "Python",
+        "link": "https://github.com/vncsmnl/needleman-wunsch"
+    },
+    {
+        "title": "msa_ortools",
+        "description": "Multiple Sequence Alignment (MSA) using Integer Programming with Google OR-Tools and CBC solver. Implements Sum-of-Pairs scoring optimization with match (+2), mismatch (-1), and gap (-3) penalties, ensuring order preservation and valid alignments.",
+        "language": "Python",
+        "link": "https://github.com/vncsmnl/msa_ortools"
+    },
+    {
+        "title": "pa-star-rv",
+        "description": "Interactive 3D visualization tool for analyzing PA-Star execution logs. Features Tkinter GUI, Matplotlib 3D plots with color mapping, multi-format export (PNG, JPEG, PDF, SVG), automatic metrics calculation, and multi-thread performance comparator (1-8 threads).",
+        "language": "Python",
+        "link": "https://github.com/vncsmnl/pa-star-rv"
     }
 ]

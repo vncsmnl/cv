@@ -45,6 +45,8 @@ function printProjItems(file)
     tex.print("\\resumeSubItem")
     tex.print("{" .. value["title"] .. "}")
     tex.print("{" .. value["description"] .. "}")
+    tex.print("{" .. value["language"] .. "}")
+    tex.print("{" .. value["link"] .. "}")
   end
 end
 
