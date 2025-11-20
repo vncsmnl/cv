@@ -1,26 +1,26 @@
 [
     {
-        "school": "Universidade de Brasília (UnB)",
-        "school_location": "Brasília, DF, Brasil",
-        "degree": "Mestrado em Ciências da Computação (Computing Systems)",
-        "time_period": "Mar 2024 - Fev 2026"
+        "school": "University of Brasília (UnB)",
+        "school_location": "Brasília, DF, Brazil",
+        "degree": "Master's in Computer Science (Computing Systems)",
+        "time_period": "Mar 2024 - Feb 2026"
     },
     {
         "school": "Anhanguera Educacional",
-        "school_location": "Brasília, DF, Brasil",
-        "degree": "Curso Superior de Tecnologia (CST) - Analise e Desenvolvimento de Sistemas",
-        "time_period": "Fev 2022 - Dez 2023"
+        "school_location": "Brasília, DF, Brazil",
+        "degree": "Associate's Degree in Systems Analysis and Development",
+        "time_period": "Feb 2022 - Dec 2023"
     },
     {
-        "school": "Universidade Católica de Brasília",
-        "school_location": "Brasília, DF, Brasil",
-        "degree": "Bacharelado em Biomedicina",
-        "time_period": "Fev 2017 - Dez 2020"
+        "school": "Catholic University of Brasília",
+        "school_location": "Brasília, DF, Brazil",
+        "degree": "Bachelor's Degree in Biomedicine",
+        "time_period": "Feb 2017 - Dec 2020"
     },
     {
-        "school": "Centro Interescolar de Línguas (CIL)",
-        "school_location": "Brasília, DF, Brasil",
-        "degree": "Curso Técnico Integrado – Inglês como Segunda Língua (ESL)",
+        "school": "Interschool Language Center (CIL)",
+        "school_location": "Brasília, DF, Brazil",
+        "degree": "Technical Course - English as a Second Language (ESL)",
         "time_period": "2009 - 2013"
     }
 ]

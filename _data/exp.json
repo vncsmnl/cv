@@ -1,27 +1,27 @@
 [
     {
-        "company": "Universidade de Brasília",
+        "company": "University of Brasília",
         "company_location": "Brasília, DF",
-        "role": "Pesquisador de Mestrado",
+        "role": "Master's Researcher",
         "team": "Computing Systems",
         "time_duration": "2024 - 2026",
         "details": [
             {
                 "title": "Multiple Sequence Alignment",
-                "description": "Pesquisa em bioinformática, redes de computadores e computação em nuvem, com foco em alto desempenho e visão computacional."
+                "description": "Research in bioinformatics, computer networks, and cloud computing, focusing on high performance, analysis, optimization and artificial intelligence."
             }
         ]
     },
     {
         "company": "Anhanguera Educacional",
         "company_location": "Brasília, DF",
-        "role": "Desenvolvedor de Software",
-        "team": "Desenvolvimento de Sistemas",
+        "role": "Software Developer",
+        "team": "Systems Development",
         "time_duration": "2022 - 2023",
         "details": [
             {
-                "title": "Desenvolvimento Full Stack",
-                "description": "Participação no desenvolvimento de aplicações web utilizando tecnologias front-end e back-end, além de colaborar na modelagem de banco de dados."
+                "title": "Full Stack Development",
+                "description": "Participated in the development of web applications using front-end and back-end technologies, as well as collaborating on database modeling."
             }
         ]
     }
