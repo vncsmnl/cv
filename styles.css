@@ -22,6 +22,10 @@
 /* ESTILOS GLOBAIS */
 /* ============================================ */
 
+body {
+    font-family: 'MonoLisa', 'Courier New', Courier, monospace;
+}
+
 code,
 pre,
 .language-tag {
