@@ -85,10 +85,16 @@ title: Vinicius Manoel
           <h3>Projects</h3>
         </span>
         {% for project in site.data.proj %}
-        <p class="heading project-title">
-          {{ project.title }}
-          <span class="language-tag">{{ project.languages }}</span>
-        </p>
+        <div class="level is-marginless info-row">
+          <p class="is-marginless">{{ project.title }}</p>
+          <p class="right-aligned">{{ project.language }}<br />
+            {% if project.link %}
+            <span class="content secondary-text-content">
+              <a href="{{ project.link }}" target="_blank"><i class="fa-brands fa-github"></i> Repository</a>
+            </span>
+            {% endif %}
+          </p>
+        </div>
         <p class="project-description">{{ project.description }}</p>
         {% endfor %}
       </div>

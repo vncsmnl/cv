@@ -1,5 +1,11 @@
 [
     {
+        "title": "AI_RAG",
+        "description": "Intelligent chatbot using RAG (Retrieval-Augmented Generation) with CSV knowledge base. Supports multiple LLM providers (Groq, OpenRouter, Ollama), HuggingFace embeddings, and Streamlit web interface for automated customer support.",
+        "language": "Python",
+        "link": "https://github.com/vncsmnl/AI_RAG"
+    },
+    {
         "title": "astar_msa",
         "description": "Parallel A-Star search for Multiple Sequence Alignment with pa-star-rv visualization tool. Features TrioAlign 3D dynamic programming, HeuristicHPair with h3all computation, multi-threaded initialization and heuristic calculation, and memory-optimized linearized 3D matrices.",
         "language": "C++",
@@ -10,12 +16,6 @@
         "description": "Interactive CLI for interacting with multiple LLMs (ChatGPT, etc.). Features: multiple observers (Console, File, Log), evaluation strategies (WordCount, SemanticSimilarity, TextSimilarity), and command-based architecture for asking questions and comparing responses.",
         "language": "Python",
         "link": "https://github.com/vncsmnl/cli_ai"
-    },
-    {
-        "title": "AI_RAG",
-        "description": "Intelligent chatbot using RAG (Retrieval-Augmented Generation) with CSV knowledge base. Supports multiple LLM providers (Groq, OpenRouter, Ollama), HuggingFace embeddings, and Streamlit web interface for automated customer support.",
-        "language": "Python",
-        "link": "https://github.com/vncsmnl/AI_RAG"
     },
     {
         "title": "needleman-wunsch",
