@@ -5,6 +5,7 @@
         "email": "viniciusmanoel@duck.com",
         "linkedin": "https://linkedin.com/in/vncsmnl",
         "github": "https://github.com/vncsmnl",
+        "about": "I got a Master's degree in Computer Science from the Graduate Program in Computer Science (PPGI) at the University of Brasília (UnB) (2026) and a Bachelor’s degree in Biomedicine from the Catholic University of Brasília (UCB) (2020), with a second technical qualification in Systems Analysis and Development from Faculdade Anhanguera (2023). Currently, a PhD student conducting research focused on Bioinformatics, algorithm optimization, and machine learning. Has experience in developing computational solutions using Python and C++. Works on the development and implementation of scalable systems with integration of vector databases for RAG (Retrieval-Augmented Generation), as well as process automation through NLP and Deep Learning. Holds relevant international certifications in Artificial Intelligence, Databases (SQL), and Computer Science.",
         "languages": [
             {
                 "language": "Python"

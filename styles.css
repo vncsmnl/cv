@@ -132,6 +132,13 @@ pre,
     font-size: 0.8rem;
 }
 
+.about-text {
+    font-size: 0.9rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+    color: #555;
+}
+
 /* Skills */
 .skills-heading {
     margin-bottom: 0;
